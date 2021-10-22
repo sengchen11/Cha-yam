@@ -1,0 +1,58 @@
+body {
+  background-image: url("sky1.jpg")
+}
+p {
+  color: black;
+
+}
+h1 {
+  color: White;
+  font-family: cursive;
+  font-size: 60px;
+  text-align: center;
+}
+h5 {
+  font-size: 30px;
+
+}
+.one {
+  color: black;
+  font-size: 30px;
+
+}
+
+.two {
+  color: Black;
+
+}
+ul {
+  list-style-type: square;
+}
+#comfortImg {
+  background-image: url("hug.jpg");
+  width: 20%;
+  height: 10%;
+  align: middle;
+}
+
+#aboutMeBodyTag {
+  background-image: url("sky.jpg");
+}
+ #happyImg {
+   background-image: url("smile.jpg");
+   width: 30%;
+   height: 10%;S
+
+ }
+
+
+.button {
+  display: square;
+  height: 30%;
+  text-align: center;
+  font-size: 15px;
+  color: black;
+}
+.myForm {
+
+}
