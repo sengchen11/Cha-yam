@@ -15,6 +15,9 @@ h5 {
   font-size: 30px;
 
 }
+h2 {
+  font-size: 15px;
+}
 .one {
   color: black;
   font-size: 30px;
@@ -40,8 +43,8 @@ ul {
 }
  #happyImg {
    background-image: url("smile.jpg");
-   width: 30%;
-   height: 10%;S
+   width: 15%;
+   height: 15%;
 
  }
 
